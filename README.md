@@ -72,7 +72,7 @@ Primarily focusing Web and it entities. Simple Google search will lead to learni
 * Containerd
 * Docker Compose
 
-## General Tools
+## ⚙️ General Tools
 
 * Git
 * YAML
