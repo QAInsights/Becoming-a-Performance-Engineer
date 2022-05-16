@@ -22,7 +22,7 @@ Primarily focusing Web and it entities. Simple Google search will lead to learni
 * [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/)
 
 
-## ⚒️ Tools
+## ⚒️ Performance Tools
 
 * [Apache JMeter](https://youtube.com/playlist?list=PLJ9A48W0kpRIjLkZ32Do9yDZXnnm7_uj_)
 * [Micro Focus LoadRunner](https://youtube.com/playlist?list=PLJ9A48W0kpRIiVf8W7jMvf6Ao-naX3Ari)
@@ -71,6 +71,12 @@ Primarily focusing Web and it entities. Simple Google search will lead to learni
 * Kubernetes
 * Containerd
 * Docker Compose
+
+## General Tools
+
+* Git
+* YAML
+* JSON
 
 ## 📊 Observability
 
